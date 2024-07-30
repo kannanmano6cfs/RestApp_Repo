@@ -9,5 +9,6 @@ public class ConsumingRestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConsumingRestApplication.class, args);
 	}
+	System.out.println("EEE");
 
 }
